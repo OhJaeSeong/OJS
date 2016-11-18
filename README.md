@@ -1,2 +1,2 @@
 # OJS
-System
+System.
